@@ -22,13 +22,13 @@ body{
     
 }
 p{
-  font-size: 300%;
+  font-size: 5em;;
 }
 #buttons{
     width: 42vw;
     height: 60vh;
     display: flexbox;
-    
+    font-size: 2em;
 }
 #buttons button{
     width: 9vw;
