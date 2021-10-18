@@ -1,0 +1,39 @@
+body{
+    background-color: #c5d5cb;
+}
+#calculator{
+    
+    background-color: #9fa8a3;
+    width: 42vw;
+    height: 80vh;
+    margin-top: 10vh;
+    margin-left: 30vw;
+    border:  0.4ex solid black;
+
+}
+#screen{
+    width: 42vw;
+    height: 20vh;
+    background-color: white;
+    border-bottom:  0.4ex solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+  font-size: 300%;
+}
+#buttons{
+    width: 42vw;
+    height: 60vh;
+    display: flexbox;
+    
+}
+#buttons button{
+    width: 9vw;
+    height: 12.5vh;
+    margin-top: 2vh;
+    margin-left: 1vw;
+   
+}
