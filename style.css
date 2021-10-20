@@ -8,27 +8,26 @@ body{
     height: 80vh;
     margin-top: 10vh;
     margin-left: 30vw;
-    border:  0.4ex solid black;
+    border:  1vh solid black;
 
 }
 #screen{
     width: 42vw;
     height: 20vh;
     background-color: white;
-    border-bottom:  0.4ex solid black;
+    border-bottom:  1vh solid black;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 300%;
     
 }
-p{
-  font-size: 5em;;
-}
+
 #buttons{
     width: 42vw;
     height: 60vh;
     display: flexbox;
-    font-size: 2em;
+    
 }
 #buttons button{
     width: 9vw;
