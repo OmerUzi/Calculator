@@ -17,9 +17,10 @@ body{
     background-color: white;
     border-bottom:  1vh solid black;
     display: flex;
-    justify-content: center;
     align-items: center;
-    font-size: 300%;
+    overflow: hidden;
+    font-size: x-large;
+
     
 }
 
